@@ -66,6 +66,8 @@ obj-y += subdir/
 修改各自子目录下的 Makefile：
 ```makefile
 EXTRA_CFLAGS      # 它给当前目录下的所有文件 (不含其下的子目录) 设置额外的编译选项, 可以不设置
+EXTRA_CFLAGS := -D DEBUG	# 例如，定义一个名为 DEBUG 的宏
+
 CFLAGS_xxx.o      # 它给当前目录下的 xxx.c 设置它自己的编译选项, 可以不设置
 ```
 
