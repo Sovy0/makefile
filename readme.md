@@ -1,3 +1,5 @@
+转自：https://github.com/100askTeam/01_all_series_quickstart/tree/master/04_%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8_%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%A7%8B/01_%E5%B5%8C%E5%85%A5%E5%BC%8FLinux%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/source/05_general_Makefile/Makefile_and_readme
+
 ## 本程序的 Makefile 分为 3 类：
 
 1. 顶层目录的 Makefile
